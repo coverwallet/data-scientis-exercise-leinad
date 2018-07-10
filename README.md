@@ -13,8 +13,7 @@ be in this folder before submitting the application.**
 ```
 make init
 ```
-3. Once in your **initilized** repository, in the `working_folder` directory and using the
-programming language/tool of your preference,....
+3. Once in your **initilized** repository, place all exercises deliverables in the `working_folder` directory.
 
 ## How to submit your exercise?
 The submitting process consist on _encrypting your files with our public
